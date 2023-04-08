@@ -24,6 +24,7 @@ Analysis of Airbnb data in Seattle revealed the following:
 The top five areas with the most Airbnb listings are Capitol Hill, Ballard, Belltown, Beacon Hill, and Wallingford.
 The most expensive properties are boats, treehouses and island accommodations, while the cheapest properties are shared rooms and private rooms in apartments.
 Prices for Airbnb listings vary by season, with an increase in prices during the summer months.
-
+## blog
+The analysis of the results found will be presented in the blog associated with the following [link](https://medium.com/@jessikram19/exploring-seattle-airbnb-data-insights-and-analysis-77f2738ee8af)
 ## Contributing
 This project was created as part of an educational exercise.
