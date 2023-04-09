@@ -8,9 +8,9 @@ This project consists of an exploratory data analysis of the Airbnb dataset in S
 
 En este proyecto buscamos analizar las bases proporcionadas, para dar respuesta a las tres preguntas planteadas a continuación, empleando Herramientas de  ciencia de datos 
 
-"*" Question 1: Top 8 most popular neighborhoods for Airbnb in Seattle
-"*" Question 2: What are the average prices for different types of properties
-"*" Question 3: How does the time of the year impact the rental prices?
+- Question 1: Top 8 most popular neighborhoods for Airbnb in Seattle
+- Question 2: What are the average prices for different types of properties
+- Question 3: How does the time of the year impact the rental prices?
 
 ## Dataset
 
@@ -20,8 +20,8 @@ the bases show the public information collected by AIRBNB since 2008 from the di
 ## Repository contents.
 
 The repository contains the following files:
-"*" README.md: file containing information about the project and instructions for use.
-"*"  file containing the code used for data analysis.
+- README.md: file containing information about the project and instructions for use.
+-  file containing the code used for data analysis.
 
 ## libraries 
 
